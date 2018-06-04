@@ -160,7 +160,6 @@ public class ActivityMusic extends AppCompatActivity {
     private int mSWStrength;
     private int mSWStrengthPrevious;
     private Spinner mSWStrengthSpinner;
-    private TextView mSWSpinnerText;
 
     private boolean mPRPresetSpinnerInit;
     private boolean mSWStrengthSpinnerInit;
@@ -388,15 +387,13 @@ public class ActivityMusic extends AppCompatActivity {
 
             View spSpinnerContainer = findViewById(R.id.swSpinnerContainer);
             mSWStrengthSpinner = (Spinner) findViewById(R.id.swSpinner);
-            mSWSpinnerText = (TextView) findViewById(R.id.swSpinnerText);
             if (mStereoWideSupported) {
                 mSWStrength = ControlPanelEffect.getParameterInt(mContext, mCurrentLevel,
                         ControlPanelEffect.Key.sw_strength);
                 mSWStrengthPrevious = mSWStrength;
                 stereoWideSpinnerInit();
             } else {
-                mSWStrengthSpinner.setVisibility(View.GONE);
-                mSWSpinnerText.setVisibility(View.GONE);
+                spSpinnerContainer.setVisibility(View.GONE);
             }
         } else {
             mViewGroup.setVisibility(View.GONE);
