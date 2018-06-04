@@ -29,7 +29,7 @@
   <string name="pr_dialog_title">Dozvuk (předvolba)</string>
   <string name="setup">Konfigurace</string>
   <string name="normal">Normální</string>
-  <string name="classical">Klasická Hudba</string>
+  <string name="classical">Klasická hudba</string>
   <string name="dance">Dance</string>
   <string name="flat">Flat</string>
   <string name="folk">Folk</string>
@@ -39,6 +39,15 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">FX Booster</string>
+  <string name="acoustic">Akustický</string>
+  <string name="bass_booster">Zvýraznění basů</string>
+  <string name="bass_reducer">Potlačení basů</string>
+  <string name="deep">Hluboký</string>
+  <string name="r_and_b">R&amp;B</string>
+  <string name="small_speakers">Malé reproduktury</string>
+  <string name="treble_booster">Zvýraznění výšek</string>
+  <string name="treble_reducer">Potlačení výšek</string>
+  <string name="vocal_booster">Zvýraznění řeči</string>
   <string name="user">Uživatel</string>
   <string name="none">Nic</string>
   <string name="smallroom">SmallRoom</string>
@@ -62,5 +71,12 @@
   <string name="stereowide_moderate">Střední</string>
   <string name="stereowide_high">Vysoké</string>
   <string name="stereowide_none">Nic</string>
-  <string name="sw_title">Stereo rozšíření:</string>
+  <string name="sw_title">Stereo rozšíření</string>
+  <!-- Presets -->
+  <string name="preset_menu">Předvolby</string>
+  <string name="save_preset">Uložit předvolbu</string>
+  <string name="load_preset">Načíst předvolbu</string>
+  <string name="new_preset">Nová předvolba...</string>
+  <string name="preset_save_toast">Předvolba uložena</string>
+  <string name="preset_load_toast">Předvolba načtena</string>
 </resources>

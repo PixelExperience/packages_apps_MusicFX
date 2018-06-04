@@ -24,14 +24,27 @@
   <string name="combo_device">Efekty obsługiwane tylko przy podłączonych słuchawkach.</string>
   <string name="bass_boost_strength">Basy</string>
   <string name="virtualizer_strength">Dźwięk przestrzenny</string>
-  <string name="pr_title">Pogłos:</string>
+  <string name="pr_title">Pogłos</string>
   <string name="pr_summary">Dodatkowe efekty pogłosu</string>
   <string name="pr_dialog_title">Przywróć ustawienia</string>
   <string name="setup">Konfiguracja</string>
   <string name="normal">Normalny</string>
   <string name="classical">Klasyczny</string>
+  <string name="dance">Taneczna</string>
+  <string name="flat">Płaski</string>
+  <string name="folk">Folk</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip Hop</string>
+  <string name="jazz">Jazz</string>
+  <string name="pop">Pop</string>
+  <string name="rock">Rock</string>
   <string name="ci_extreme">Wzmocnienie</string>
   <string name="user">Własne</string>
+  <string name="none">Brak</string>
+  <string name="smallroom">Mały Pokój</string>
+  <string name="mediumroom">Średni Pokój</string>
+  <string name="largeroom">Duży Pokój</string>
+  <string name="mediumhall">Średni Hol</string>
   <string name="largehall">LargeHall</string>
   <string name="plate">Płyta</string>
   <string name="eq_custom">Kliknij przcisk, aby dostosować</string>
@@ -49,5 +62,10 @@
   <string name="stereowide_moderate">Umiarkowany</string>
   <string name="stereowide_high">Wysoki</string>
   <string name="stereowide_none">Żaden</string>
-  <string name="sw_title">Rozszerzenie stereo:</string>
+  <string name="sw_title">Rozszerzenie stereo</string>
+  <!-- Presets -->
+  <string name="preset_menu">Ustawienia predefiniowane</string>
+  <string name="save_preset">Zapisz ustawienie</string>
+  <string name="load_preset">Wczytaj ustawienie</string>
+  <string name="new_preset">Nowe ustawienie...</string>
 </resources>
