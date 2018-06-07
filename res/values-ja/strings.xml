@@ -15,16 +15,70 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">MusicFX</string>
+  <string name="app_name">イコライザー</string>
   <!-- ControlPanelMusic strings -->
-  <string name="no_effects">効果は利用できません。</string>
+  <string name="no_effects">効果は利用できません</string>
+  <string name="main_toggle_effects_title">オーディオ効果</string>
   <string name="eq_dialog_title">イコライザー</string>
-  <string name="headset_plug">これらの効果はヘッドホンで聴いてください。</string>
+  <string name="headset_plug">これらの効果はヘッドホンで聴いてください</string>
+  <string name="combo_device">効果はヘッドフォン接続時のみサポートされています</string>
   <string name="bass_boost_strength">バスブースト</string>
   <string name="virtualizer_strength">サラウンドサウンド</string>
+  <string name="pr_title">残響効果：</string>
+  <string name="pr_summary">部屋にいるような残響効果を追加</string>
+  <string name="pr_dialog_title">残響のプリセット</string>
   <string name="setup">セットアップ</string>
+  <string name="normal">標準</string>
+  <string name="classical">クラシック</string>
+  <string name="dance">ダンス</string>
+  <string name="flat">フラット</string>
+  <string name="folk">フォーク</string>
+  <string name="heavy_metal">ヘビーメタル</string>
+  <string name="hip_hop">ヒップホップ</string>
+  <string name="jazz">ジャズ</string>
+  <string name="pop">ポップ</string>
+  <string name="rock">ロック</string>
   <string name="ci_extreme">FXブースター</string>
+  <string name="acoustic">アコースティック</string>
+  <string name="bass_booster">低音強調</string>
+  <string name="bass_reducer">低音低減</string>
+  <string name="classical">クラシック</string>
+  <string name="deep">ディープ</string>
+  <string name="r_and_b">R&amp;B</string>
+  <string name="small_speakers">小さいスピーカー</string>
+  <string name="treble_booster">高音強調</string>
+  <string name="treble_reducer">高音低減</string>
+  <string name="vocal_booster">ボーカル強調</string>
   <string name="user">ユーザー</string>
+  <string name="none">なし</string>
+  <string name="smallroom">小さい部屋</string>
+  <string name="mediumroom">普通の部屋</string>
+  <string name="largeroom">大きな部屋</string>
+  <string name="mediumhall">普通のホール</string>
+  <string name="largehall">大きなホール</string>
+  <string name="plate">プレート</string>
+  <string name="eq_custom">カスタマイズするには｢カスタム｣を選択してください</string>
+  <string name="power_on_prompt">設定を始めるにはまずイコライザを有効にしてください</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">サウンド効果コントロールパネル</string>
+  <string name="toggle_button_on">オン</string>
+  <string name="toggle_button_off">オフ</string>
+  <string name="drawer_item_speaker">スピーカー</string>
+  <string name="drawer_item_headset">ヘッドフォン</string>
+  <string name="drawer_item_bluetooth">Bluetooth</string>
+  <string name="drawer_open">ナビゲーションドロワーを開く</string>
+  <string name="drawer_close">ナビゲーションドロワーを閉じる</string>
+  <string name="current_output">現在の出力：</string>
+  <string name="stereowide_light">軽い</string>
+  <string name="stereowide_moderate">標準</string>
+  <string name="stereowide_high">高い</string>
+  <string name="stereowide_none">なし</string>
+  <string name="sw_title">ステレオの広さ：</string>
+  <!-- Presets -->
+  <string name="preset_menu">プリセット</string>
+  <string name="save_preset">プリセットの保存</string>
+  <string name="load_preset">プリセットの読み込み</string>
+  <string name="new_preset">新しいプリセット</string>
+  <string name="preset_save_toast">プリセットを保存しました</string>
+  <string name="preset_load_toast">プリセットを読み込みました</string>
 </resources>

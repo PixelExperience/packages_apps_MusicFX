@@ -15,13 +15,12 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Effekte nicht verfügbar</string>
   <string name="main_toggle_effects_title">Audio-Effekte</string>
   <string name="eq_dialog_title">Equalizer</string>
   <string name="headset_plug">Für diese Effekte brauchst du Kopfhörer.</string>
-  <string name="combo_device">Effekte nur auf Kopfhörer-Wiedergabe unterstützt.</string>
+  <string name="combo_device">Effekte nur bei Kopfhörer-Wiedergabe unterstützt.</string>
   <string name="bass_boost_strength">Bassverstärkung</string>
   <string name="virtualizer_strength">Surround-Sound</string>
   <string name="pr_title">Hall:</string>
@@ -39,15 +38,25 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">FX-Verstärker</string>
+  <string name="acoustic">Akustik</string>
+  <string name="bass_booster">Mehr Bässe</string>
+  <string name="bass_reducer">Weniger Bässe</string>
+  <string name="classical">Klassisch</string>
+  <string name="deep">Deep</string>
+  <string name="r_and_b">R&amp;B</string>
+  <string name="small_speakers">Kleine Lautsprecher</string>
+  <string name="treble_booster">Mehr Höhen</string>
+  <string name="treble_reducer">Weniger Höhen</string>
+  <string name="vocal_booster">Sprache verstärken</string>
   <string name="user">Nutzer</string>
   <string name="none">Kein</string>
   <string name="smallroom">Kleiner Raum</string>
   <string name="mediumroom">Mittlerer Raum</string>
-  <string name="largeroom">Größer Raum</string>
+  <string name="largeroom">Großer Raum</string>
   <string name="mediumhall">Mittlere Halle</string>
   <string name="largehall">Große Halle</string>
   <string name="plate">Platte</string>
-  <string name="eq_custom">Um anzupassen, wähle \"Benutzerdefiniert\"</string>
+  <string name="eq_custom">Zum anpassen, wähle \"Benutzerdefiniert\"</string>
   <string name="power_on_prompt">Drücke den Ein-/Ausschalter oben-rechts.</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Steuerfeld für Musikeffekte</string>
@@ -58,9 +67,17 @@
   <string name="drawer_item_bluetooth">Bluetooth</string>
   <string name="drawer_open">Navigationsfeld öffnen</string>
   <string name="drawer_close">Navigationsfeld schließen</string>
+  <string name="current_output">Aktueller Output:</string>
   <string name="stereowide_light">Leicht</string>
   <string name="stereowide_moderate">Moderat</string>
   <string name="stereowide_high">Hoch</string>
   <string name="stereowide_none">Kein</string>
-  <string name="sw_title">Stereo Erweiterung:</string>
+  <string name="sw_title">Stereo Erweiterung</string>
+  <!-- Presets -->
+  <string name="preset_menu">Voreinstellungen</string>
+  <string name="save_preset">Voreinstellung speichern</string>
+  <string name="load_preset">Voreinstellung laden</string>
+  <string name="new_preset">Neue Voreinstellung...</string>
+  <string name="preset_save_toast">Voreinstellung gespeichert</string>
+  <string name="preset_load_toast">Voreinstellung geladen</string>
 </resources>

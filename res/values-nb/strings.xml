@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Effekter er ikke tilgjengelige.</string>
   <string name="main_toggle_effects_title">Lydeffekter</string>
@@ -24,7 +23,7 @@
   <string name="combo_device">Effekter støttes bare ved hodetelefonen avspilling.</string>
   <string name="bass_boost_strength">Bassforsterking</string>
   <string name="virtualizer_strength">Surround-lyd</string>
-  <string name="pr_title">Romklang:</string>
+  <string name="pr_title">Romklang</string>
   <string name="pr_summary">Ekstra romgjenklang effekter</string>
   <string name="pr_dialog_title">Romklang forhåndsinnstilling</string>
   <string name="setup">Konfigurering</string>
@@ -55,11 +54,13 @@
   <string name="toggle_button_off">Av</string>
   <string name="drawer_item_speaker">Høyttaler</string>
   <string name="drawer_item_headset">Hodetelefoner</string>
+  <string name="drawer_item_bluetooth">Bluetooth</string>
   <string name="drawer_open">Åpne navigasjonsskuff</string>
   <string name="drawer_close">Lukk navigasjonsskuff</string>
   <string name="stereowide_light">Lett</string>
   <string name="stereowide_moderate">Moderat</string>
   <string name="stereowide_high">Høy</string>
   <string name="stereowide_none">Stille</string>
-  <string name="sw_title">Stereo-utvidelse:</string>
+  <string name="sw_title">Stereo-utvidelse</string>
+  <!-- Presets -->
 </resources>
