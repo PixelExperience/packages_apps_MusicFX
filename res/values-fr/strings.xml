@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Effets indisponibles</string>
   <string name="main_toggle_effects_title">Effets audio</string>
@@ -24,7 +23,7 @@
   <string name="combo_device">L\'effet est disponible uniquement lorsque vous utilisez les écouteurs</string>
   <string name="bass_boost_strength">Amplification des basses</string>
   <string name="virtualizer_strength">Son surround</string>
-  <string name="pr_title">Réverbération:</string>
+  <string name="pr_title">Réverbération</string>
   <string name="pr_summary">Effets de réverbération additionnels</string>
   <string name="pr_dialog_title">Préréglage de réverbération</string>
   <string name="setup">Configuration</string>
@@ -39,11 +38,24 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">FX booster</string>
+  <string name="acoustic">Acoustique</string>
+  <string name="bass_booster">Amplificateur de basses</string>
+  <string name="bass_reducer">Réducteur de basses</string>
+  <string name="deep">Profond</string>
+  <string name="r_and_b">R&amp;B</string>
+  <string name="small_speakers">Petit haut-parleur</string>
+  <string name="treble_booster">Amplificateur des aiguës</string>
+  <string name="treble_reducer">Réducteur des aiguës</string>
+  <string name="vocal_booster">Amplificateur de la voix</string>
   <string name="user">Utilisateur</string>
   <string name="none">Aucun</string>
   <string name="smallroom">Petite salle</string>
   <string name="mediumroom">Salle moyenne</string>
   <string name="largeroom">Grande salle</string>
+  <string name="mediumhall">Hall moyen</string>
+  <string name="largehall">Grand hall</string>
+  <string name="plate">Plate</string>
+  <string name="eq_custom">Pour un réglage manuel, sélectionnez « Personnalisé »</string>
   <string name="power_on_prompt">Activez l\'égaliseur pour accéder aux réglages</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Configuration effets musicaux</string>
@@ -58,5 +70,12 @@
   <string name="stereowide_moderate">Modéré</string>
   <string name="stereowide_high">Élevé</string>
   <string name="stereowide_none">Aucun</string>
-  <string name="sw_title">Élargisseur stéréo:</string>
+  <string name="sw_title">Élargisseur stéréo</string>
+  <!-- Presets -->
+  <string name="preset_menu">Préréglages</string>
+  <string name="save_preset">Sauvegarder le préréglage</string>
+  <string name="load_preset">Charger le préréglage</string>
+  <string name="new_preset">Nouveau préréglage...</string>
+  <string name="preset_save_toast">Préréglage enregistré</string>
+  <string name="preset_load_toast">Préréglage chargé</string>
 </resources>

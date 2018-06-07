@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Ефекти не доступні</string>
   <string name="main_toggle_effects_title">Аудіоефекти</string>
@@ -35,5 +34,6 @@
   <string name="picker_title">Панель керув. музичн. ефектами</string>
   <string name="stereowide_moderate">Помірний</string>
   <string name="stereowide_high">Високий</string>
-  <string name="sw_title">Розширення стерео:</string>
+  <string name="sw_title">Розширення стерео</string>
+  <!-- Presets -->
 </resources>
