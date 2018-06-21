@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Ισοσταθμιστής</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Τα εφέ δεν είναι διαθέσιμα.</string>
   <string name="main_toggle_effects_title">Εφέ ήχου</string>
@@ -27,6 +28,9 @@
   <string name="pr_summary">Πρόσθετα εφέ αντήχησης δωματίου</string>
   <string name="pr_dialog_title">Προεπιλογή αντήχησης</string>
   <string name="setup">Ρύθμιση</string>
+  <string name="normal">Κανονικό</string>
+  <string name="classical">Κλασική</string>
+  <string name="dance">Χορευτική</string>
   <string name="flat">Επίπεδο</string>
   <string name="folk">Λαϊκή μουσική</string>
   <string name="heavy_metal">Heavy Metal</string>
@@ -35,7 +39,22 @@
   <string name="pop">Ποπ</string>
   <string name="rock">Ροκ</string>
   <string name="ci_extreme">FX Booster</string>
+  <string name="acoustic">Ακουστική</string>
+  <string name="bass_booster">Ενίσχυση μπάσων</string>
+  <string name="bass_reducer">Μείωση μπάσου</string>
+  <string name="classical">Κλασσικό</string>
+  <string name="deep">Βαθύς</string>
+  <string name="r_and_b">R&amp;B</string>
+  <string name="small_speakers">Μικρά ηχεία</string>
+  <string name="treble_booster">Ενίσχυση πρίμα</string>
+  <string name="treble_reducer">Μείωση πρίμων</string>
+  <string name="vocal_booster">Ενίσχυση φωνητικών</string>
   <string name="user">Xρήστης</string>
+  <string name="none">Κανένα</string>
+  <string name="smallroom">Μικρό Δωμάτιο</string>
+  <string name="mediumroom">Μεσαίο Δωμάτιο</string>
+  <string name="largeroom">Μεγάλο Δωμάτιο</string>
+  <string name="mediumhall">Μεσαίο Χωλ</string>
   <string name="largehall">LargeHall</string>
   <string name="plate">Πλατό</string>
   <string name="eq_custom">Για να προσαρμόσετε, επιλέξτε «προσαρμογή»</string>
@@ -45,9 +64,21 @@
   <string name="toggle_button_on">Ενεργό</string>
   <string name="toggle_button_off">Απενεργοποίηση</string>
   <string name="drawer_item_speaker">Ηχείο</string>
+  <string name="drawer_item_headset">Ακουστικά</string>
+  <string name="drawer_item_bluetooth">Bluetooth</string>
+  <string name="drawer_open">Άνοιγμα μενού πλοήγησης</string>
+  <string name="drawer_close">Κλείσιμο μενού πλοήγησης</string>
+  <string name="current_output">Τρέχουσα έξοδος:</string>
+  <string name="stereowide_light">Φως</string>
   <string name="stereowide_moderate">Μέτριο</string>
   <string name="stereowide_high">Υψηλό</string>
   <string name="stereowide_none">Κανένα</string>
   <string name="sw_title">Διευρυμένο Stereo</string>
   <!-- Presets -->
+  <string name="preset_menu">Προκαθορισμένα</string>
+  <string name="save_preset">Αποθήκευση προκαθορισμένης ρύθμισης</string>
+  <string name="load_preset">Φόρτωση προεπιλογής</string>
+  <string name="new_preset">Νέα προρύθμιση...</string>
+  <string name="preset_save_toast">Η προεπιλογή αποθηκεύτηκε</string>
+  <string name="preset_load_toast">Η προεπιλογή φορτώθηκε</string>
 </resources>

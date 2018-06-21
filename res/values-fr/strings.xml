@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Égaliseur</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Effets indisponibles</string>
   <string name="main_toggle_effects_title">Effets audio</string>
@@ -41,6 +42,7 @@
   <string name="acoustic">Acoustique</string>
   <string name="bass_booster">Amplificateur de basses</string>
   <string name="bass_reducer">Réducteur de basses</string>
+  <string name="classical">Classique</string>
   <string name="deep">Profond</string>
   <string name="r_and_b">R&amp;B</string>
   <string name="small_speakers">Petit haut-parleur</string>
@@ -66,6 +68,7 @@
   <string name="drawer_item_bluetooth">Bluetooth</string>
   <string name="drawer_open">Ouvrir le tiroir de navigation</string>
   <string name="drawer_close">Fermer le tiroir de navigation</string>
+  <string name="current_output">Sortie actuelle:</string>
   <string name="stereowide_light">Léger</string>
   <string name="stereowide_moderate">Modéré</string>
   <string name="stereowide_high">Élevé</string>
