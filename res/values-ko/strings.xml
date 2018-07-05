@@ -15,11 +15,13 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">이퀄라이저</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">효과를 사용할 수 없습니다.</string>
   <string name="main_toggle_effects_title">오디오 효과</string>
   <string name="eq_dialog_title">이퀄라이저</string>
   <string name="headset_plug">이 효과를 사용하려면 헤드폰을 연결하시기 바랍니다.</string>
+  <string name="combo_device">효과는 헤드폰 재생에서만 지원됩니다.</string>
   <string name="bass_boost_strength">중저음 강화</string>
   <string name="virtualizer_strength">서라운드 사운드</string>
   <string name="pr_title">잔향</string>

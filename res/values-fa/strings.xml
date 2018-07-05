@@ -15,16 +15,52 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">اکولایزر</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">جلوه‌ها در دسترس نیستند.</string>
+  <string name="main_toggle_effects_title">جلوه‌های صوتی</string>
   <string name="eq_dialog_title">اکولایزر</string>
   <string name="headset_plug">برای این جلوه‌ها هدفون را وصل کنید.</string>
+  <string name="combo_device">افکت‌ها فقط در پخش هدفون پشتیبانی می شوند.</string>
   <string name="bass_boost_strength">تقویت باس</string>
   <string name="virtualizer_strength">صدای فراگیر</string>
+  <string name="pr_title">طنین:</string>
+  <string name="pr_summary">افکت های اضافی بازتاب اتاق</string>
+  <string name="pr_dialog_title">تنظیم پیش فرض بازتاب</string>
   <string name="setup">تنظیم</string>
+  <string name="normal">عادی</string>
+  <string name="classical">کلاسیک</string>
+  <string name="dance">رقص</string>
+  <string name="flat">مسطح</string>
+  <string name="folk">محلی</string>
+  <string name="heavy_metal">هوی متال</string>
+  <string name="hip_hop">هیپ هاپ</string>
+  <string name="jazz">جاز</string>
+  <string name="pop">پاپ</string>
+  <string name="rock">راک</string>
   <string name="ci_extreme">تقویت‌کننده FX</string>
+  <string name="acoustic">آکوستیک</string>
+  <string name="bass_booster">تقویت کننده باس</string>
+  <string name="bass_reducer">کاهنده باس</string>
+  <string name="classical">کلاسیک</string>
+  <string name="deep">عمیق</string>
+  <string name="small_speakers">بلندگوهای کوچک</string>
   <string name="user">کاربر</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">مرکز کنترل جلوه‌های موسیقی</string>
+  <string name="toggle_button_on">روشن</string>
+  <string name="toggle_button_off">خاموش</string>
+  <string name="drawer_item_speaker">بلندگو</string>
+  <string name="drawer_item_headset">هدفون</string>
+  <string name="drawer_item_bluetooth">بلوتوث</string>
+  <string name="drawer_open">باز کردن کشوی ناوبری</string>
+  <string name="drawer_close">بستن کشوی ناوبری</string>
+  <string name="current_output">خروجی فعلی:</string>
+  <string name="stereowide_light">کم</string>
+  <string name="stereowide_moderate">متوسط</string>
+  <string name="stereowide_high">زیاد</string>
+  <string name="stereowide_none">هیچ‌کدام</string>
+  <string name="sw_title">گسترش دهنده استریو:</string>
   <!-- Presets -->
+  <string name="preset_menu">تنظیمات پیش‌فرض</string>
 </resources>

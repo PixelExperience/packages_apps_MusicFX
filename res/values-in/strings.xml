@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Equalizer</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Efek tidak tersedia.</string>
   <string name="main_toggle_effects_title">Efek audio</string>
