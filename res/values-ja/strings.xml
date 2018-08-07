@@ -78,7 +78,7 @@
   <string name="preset_menu">プリセット</string>
   <string name="save_preset">プリセットの保存</string>
   <string name="load_preset">プリセットの読み込み</string>
-  <string name="new_preset">新しいプリセット</string>
+  <string name="new_preset">新しいプリセット...</string>
   <string name="preset_save_toast">プリセットを保存しました</string>
   <string name="preset_load_toast">プリセットを読み込みました</string>
 </resources>
