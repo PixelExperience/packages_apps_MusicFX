@@ -15,7 +15,15 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Эквалайзер</string>
   <!-- ControlPanelMusic strings -->
+  <string name="no_effects">Эфекты не даступныя.</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="stereowide_none">Няма</string>
+  <string name="sw_title">Стэрэа пашыральнік:</string>
   <!-- Presets -->
+  <string name="preset_menu">Прэсет</string>
+  <string name="save_preset">Захаваць прэсет</string>
+  <string name="load_preset">Загрузіць прэсет</string>
+  <string name="new_preset">Новы прэсет...</string>
 </resources>

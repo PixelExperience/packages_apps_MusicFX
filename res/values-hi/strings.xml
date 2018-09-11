@@ -15,13 +15,23 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">इक्वलाइज़र</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">प्रभाव उपलब्ध नहीं.</string>
+  <string name="main_toggle_effects_title">श्रव्य प्रभाव</string>
   <string name="eq_dialog_title">इक्वलाइज़र</string>
   <string name="headset_plug">इन प्रभावों के लिए हेडफ़ोन प्‍लग इन करें.</string>
+  <string name="combo_device">प्रभाव केवल हेडफोन प्लेबैक पर समर्थित है।</string>
   <string name="bass_boost_strength">बेस बढ़ाएं</string>
-  <string name="virtualizer_strength">सराउंड साउंड</string>
-  <string name="setup">सेटअप</string>
+  <string name="virtualizer_strength">आवाज गूंज</string>
+  <string name="setup">व्यवस्था</string>
+  <string name="normal">सामान्य</string>
+  <string name="classical">शास्त्रीय</string>
+  <string name="dance">नृत्य</string>
+  <string name="flat">सपाट</string>
+  <string name="folk">लोक</string>
+  <string name="heavy_metal">भारी धातु</string>
+  <string name="hip_hop">भांगड़ा</string>
   <string name="ci_extreme">FX बूस्‍टर</string>
   <string name="user">उपयोगकर्ता</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->

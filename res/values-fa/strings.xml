@@ -44,8 +44,21 @@
   <string name="bass_reducer">کاهنده باس</string>
   <string name="classical">کلاسیک</string>
   <string name="deep">عمیق</string>
+  <string name="r_and_b">R&amp;B</string>
   <string name="small_speakers">بلندگوهای کوچک</string>
+  <string name="treble_booster">تقویت کننده صدای زیر</string>
+  <string name="treble_reducer">کاهش دهنده صدای زیر</string>
+  <string name="vocal_booster">تقویت کننده خواننده</string>
   <string name="user">کاربر</string>
+  <string name="none">هیچ کدام</string>
+  <string name="smallroom">اتاق کوچک</string>
+  <string name="mediumroom">اتاق متوسط</string>
+  <string name="largeroom">اتاق بزرگ</string>
+  <string name="mediumhall">سالن متوسط</string>
+  <string name="largehall">سالن بزرگ</string>
+  <string name="plate">صفحه گرامافون</string>
+  <string name="eq_custom">برای سفارشی کردن، \"شخصی سازی\" را انتخاب کنید</string>
+  <string name="power_on_prompt">قبل از اینکه چیزی را پیکربندی کنید، اکولایزر را فعال کنید</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">مرکز کنترل جلوه‌های موسیقی</string>
   <string name="toggle_button_on">روشن</string>
@@ -63,4 +76,9 @@
   <string name="sw_title">گسترش دهنده استریو:</string>
   <!-- Presets -->
   <string name="preset_menu">تنظیمات پیش‌فرض</string>
+  <string name="save_preset">ذخیره از پیش تعیین شده</string>
+  <string name="load_preset">بارگذاری از پیش تعیین شده</string>
+  <string name="new_preset">پیش فرض جدید...</string>
+  <string name="preset_save_toast">پیش فرض ذخیره شد</string>
+  <string name="preset_load_toast">پیش فرض بارگذاری شد</string>
 </resources>

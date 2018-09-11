@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Egalizator</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Efectele nu sunt disponibile.</string>
   <string name="main_toggle_effects_title">Efecte audio</string>
@@ -38,6 +39,16 @@
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>
   <string name="ci_extreme">Amplificator FX</string>
+  <string name="acoustic">Acustic</string>
+  <string name="bass_booster">Amplificare Bas</string>
+  <string name="bass_reducer">Reducere Bas</string>
+  <string name="classical">Clasic</string>
+  <string name="deep">Profund</string>
+  <string name="r_and_b">R&amp;B</string>
+  <string name="small_speakers">Boxe Mici</string>
+  <string name="treble_booster">Amplificare Frecv. Înalte</string>
+  <string name="treble_reducer">Reducere Frecv. Înalte</string>
+  <string name="vocal_booster">Amplificare Voce</string>
   <string name="user">Utilizator</string>
   <string name="none">Niciunul</string>
   <string name="smallroom">Cameră mică</string>
@@ -57,6 +68,7 @@
   <string name="drawer_item_bluetooth">Bluetooth</string>
   <string name="drawer_open">Deschide sertarul pentru navigație</string>
   <string name="drawer_close">Închide sertarul pentru navigație</string>
+  <string name="current_output">Ieşire curentă:</string>
   <string name="stereowide_light">Uşor</string>
   <string name="stereowide_moderate">Moderat</string>
   <string name="stereowide_high">Ridicat</string>

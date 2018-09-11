@@ -16,6 +16,24 @@
 -->
 <resources>
   <!-- ControlPanelMusic strings -->
+  <string name="setup">सेटअप</string>
+  <string name="normal">सामान्य</string>
+  <string name="dance">नृत्य</string>
+  <string name="flat">सपाट</string>
+  <string name="pop">पॉप</string>
+  <string name="rock">रॉक</string>
+  <string name="ci_extreme">इलेक्ट्रॉनिक</string>
+  <string name="none">काहीही नाही</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="toggle_button_on">चालू</string>
+  <string name="toggle_button_off">बंद</string>
+  <string name="drawer_item_speaker">स्पीकर</string>
+  <string name="drawer_item_headset">हेडफोन</string>
+  <string name="drawer_item_bluetooth">ब्लुटुथ</string>
+  <string name="stereowide_light">कमी</string>
+  <string name="stereowide_moderate">मध्यम</string>
+  <string name="stereowide_high">उच्च</string>
+  <string name="stereowide_none">काहीही नाही</string>
   <!-- Presets -->
+  <string name="preset_menu">प्रिसेट्स</string>
 </resources>

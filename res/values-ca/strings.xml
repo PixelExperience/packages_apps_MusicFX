@@ -15,20 +15,70 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Equalitzador</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Efectes no disponibles.</string>
   <string name="main_toggle_effects_title">Efectes d\'àudio</string>
   <string name="eq_dialog_title">Equalitzador</string>
   <string name="headset_plug">Connecta els auriculars per a aquests efectes.</string>
+  <string name="combo_device">Efectes suportats únicament en auriculars.</string>
   <string name="bass_boost_strength">Accentuació de baixos</string>
   <string name="virtualizer_strength">So envoltant</string>
   <string name="pr_title">Reverberació:</string>
   <string name="pr_summary">Efectes addicionals de reverberació ambiental</string>
   <string name="pr_dialog_title">Reverberació predefinida</string>
   <string name="setup">Configura</string>
+  <string name="normal">Normal</string>
+  <string name="classical">Clàssic</string>
+  <string name="dance">Ball</string>
+  <string name="flat">Pla</string>
+  <string name="folk">Folk</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip Hop</string>
+  <string name="jazz">Jazz</string>
+  <string name="pop">Pop</string>
+  <string name="rock">Rock</string>
   <string name="ci_extreme">FX booster</string>
+  <string name="acoustic">Acústic</string>
+  <string name="bass_booster">Alçament de Baixos</string>
+  <string name="bass_reducer">Reductor de Baixos</string>
+  <string name="classical">Clàssica</string>
+  <string name="deep">Profunda</string>
+  <string name="r_and_b">R&amp;B</string>
+  <string name="small_speakers">Altaveus Menuts</string>
+  <string name="treble_booster">Treble Booster</string>
+  <string name="treble_reducer">Treble Reducer</string>
+  <string name="vocal_booster">Reforç Vocal</string>
   <string name="user">Usuari</string>
+  <string name="none">Cap</string>
+  <string name="smallroom">Sala Petita</string>
+  <string name="mediumroom">Sala Mitjana</string>
+  <string name="largeroom">Habitació gran</string>
+  <string name="mediumhall">Sala mitjana</string>
+  <string name="largehall">Sala Gran</string>
+  <string name="plate">Estudi</string>
+  <string name="eq_custom">Per a personalitzar, selecciona \"Personalitzat\"</string>
+  <string name="power_on_prompt">Habilita el equalitzador abans de configurar res</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Tauler de control dels efectes musicals</string>
+  <string name="toggle_button_on">Engegat</string>
+  <string name="toggle_button_off">Apagat</string>
+  <string name="drawer_item_speaker">Altaveu</string>
+  <string name="drawer_item_headset">Auriculars</string>
+  <string name="drawer_item_bluetooth">Bluetooth</string>
+  <string name="drawer_open">Obre el calaix de navegació</string>
+  <string name="drawer_close">Tanca el calaix de navegació</string>
+  <string name="current_output">Eixida actual:</string>
+  <string name="stereowide_light">Clar</string>
+  <string name="stereowide_moderate">Moderat</string>
+  <string name="stereowide_high">Alt</string>
+  <string name="stereowide_none">Cap</string>
+  <string name="sw_title">Amplificador estèreo:</string>
   <!-- Presets -->
+  <string name="preset_menu">Presets</string>
+  <string name="save_preset">Desar Preset</string>
+  <string name="load_preset">Carregar Preset</string>
+  <string name="new_preset">Nou Preset...</string>
+  <string name="preset_save_toast">Preset desat</string>
+  <string name="preset_load_toast">Preset carregat</string>
 </resources>
