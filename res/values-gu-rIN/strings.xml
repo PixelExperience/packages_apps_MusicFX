@@ -15,7 +15,70 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">ઇક્વિલાઇઝર</string>
   <!-- ControlPanelMusic strings -->
+  <string name="no_effects">ઇફેક્ટ્સ ઉપલબ્ધ નથી.</string>
+  <string name="main_toggle_effects_title">ઓડિયો અસર</string>
+  <string name="eq_dialog_title">ઇક્વિલાઇઝર</string>
+  <string name="headset_plug">આ ઇફેક્ટ્સ માટે હેડફોન્સ પ્લગ ઇન કરો.</string>
+  <string name="combo_device">અસરો ફક્ત હેડફોન પ્લેબેક પર સપોર્ટેડ છે.</string>
+  <string name="bass_boost_strength">બાસ બુસ્ટ</string>
+  <string name="virtualizer_strength">આસપાસનો અવાજ</string>
+  <string name="pr_title">રીવર્બ:</string>
+  <string name="pr_summary">વધારાના રૂમ પડધાં ઇફેક્ટ્સ</string>
+  <string name="pr_dialog_title">રીવર્બ પ્રિસેટ</string>
+  <string name="setup">સેટઅપ</string>
+  <string name="normal">સામાન્ય</string>
+  <string name="classical">ક્લાસિકલ</string>
+  <string name="dance">નૃત્ય</string>
+  <string name="flat">સપાટ</string>
+  <string name="folk">જનતા</string>
+  <string name="heavy_metal">ભારે ધાતુ</string>
+  <string name="hip_hop">હિપ હોપ</string>
+  <string name="jazz">જૅઝ</string>
+  <string name="pop">પૉપ</string>
+  <string name="rock">રૉક</string>
+  <string name="ci_extreme">ઇલેક્ટ્રોનિક</string>
+  <string name="acoustic">ધ્વનિ</string>
+  <string name="bass_booster">બાસ બુસ્ટર</string>
+  <string name="bass_reducer">બાસ ઘટાડનાર</string>
+  <string name="classical">ક્લાસિકલ</string>
+  <string name="deep">ડીપ</string>
+  <string name="r_and_b">આર એન્ડ બી</string>
+  <string name="small_speakers">નાના સ્પીકરો</string>
+  <string name="treble_booster">ટ્રેબલ બુસ્ટર</string>
+  <string name="treble_reducer">ટ્રેબલ ઘટાડનાર</string>
+  <string name="vocal_booster">વોકલ બૂસ્ટર</string>
+  <string name="user">કસ્ટમ</string>
+  <string name="none">કંઈ નહીં</string>
+  <string name="smallroom">નાના રુમ</string>
+  <string name="mediumroom">મધ્યમ રૂમ</string>
+  <string name="largeroom">લાર્જરૂમ</string>
+  <string name="mediumhall">મધ્યમ હૉલ</string>
+  <string name="largehall">લાર્જહોલ</string>
+  <string name="plate">પ્લેટ</string>
+  <string name="eq_custom">કસ્ટમાઇઝ કરવા માટે, \"કસ્ટમ\" પસંદ કરો</string>
+  <string name="power_on_prompt">કંઈપણ રૂપરેખાંકિત કરવાનો પ્રયાસ કરતા પહેલા બરાબરી સક્ષમ કરો</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
+  <string name="picker_title">સંગીત ઇફેક્ટ્સ કન્ટ્રોલ પેનલ\"</string>
+  <string name="toggle_button_on">ચાલુ</string>
+  <string name="toggle_button_off">બંધ</string>
+  <string name="drawer_item_speaker">સ્પીકર</string>
+  <string name="drawer_item_headset">હેડફોન્સ</string>
+  <string name="drawer_item_bluetooth">બ્લુટૂથ</string>
+  <string name="drawer_open">નેવિગેશન ડ્રોવર ખોલો</string>
+  <string name="drawer_close">નેવિગેશન ડ્રોવર બંધ કરો</string>
+  <string name="current_output">પ્રવાહ આઉટપુટ:</string>
+  <string name="stereowide_light">લાઇટ</string>
+  <string name="stereowide_moderate">મધ્યમ</string>
+  <string name="stereowide_high">ઉચ્ચ</string>
+  <string name="stereowide_none">કંઈ નહીં</string>
+  <string name="sw_title">સ્ટીરિયો વિધુર:</string>
   <!-- Presets -->
+  <string name="preset_menu">પ્રીસેટ્સ</string>
+  <string name="save_preset">પ્રીસેટ સાચવો</string>
+  <string name="load_preset">પ્રીસેટ લોડ કરો</string>
+  <string name="new_preset">નવું પ્રીસેટ...</string>
+  <string name="preset_save_toast">પ્રીસેટ સાચવ્યું</string>
+  <string name="preset_load_toast">પ્રીસેટ લોડ</string>
 </resources>

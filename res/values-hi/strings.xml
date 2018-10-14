@@ -24,6 +24,9 @@
   <string name="combo_device">प्रभाव केवल हेडफोन प्लेबैक पर समर्थित है।</string>
   <string name="bass_boost_strength">बेस बढ़ाएं</string>
   <string name="virtualizer_strength">आवाज गूंज</string>
+  <string name="pr_title">प्रतिध्वनि:</string>
+  <string name="pr_summary">अतिरिक्त कमरा प्रतिध्वनि प्रभाव</string>
+  <string name="pr_dialog_title">पूर्व निर्धारित प्रतिध्वनि</string>
   <string name="setup">व्यवस्था</string>
   <string name="normal">सामान्य</string>
   <string name="classical">शास्त्रीय</string>
@@ -32,8 +35,29 @@
   <string name="folk">लोक</string>
   <string name="heavy_metal">भारी धातु</string>
   <string name="hip_hop">भांगड़ा</string>
+  <string name="jazz">जैज़</string>
+  <string name="pop">पॉप</string>
+  <string name="rock">रॉक</string>
   <string name="ci_extreme">FX बूस्‍टर</string>
+  <string name="acoustic">	
+श्रवणविषयक</string>
+  <string name="bass_booster">बास बूस्टर</string>
+  <string name="bass_reducer">बास घटाने वाला</string>
+  <string name="classical">शास्त्रीय</string>
+  <string name="deep">प्रगाढ़</string>
+  <string name="r_and_b">आर और बी</string>
+  <string name="small_speakers">छोटे स्पीकर्स</string>
+  <string name="treble_booster">ट्रेबल बूस्टर</string>
+  <string name="treble_reducer">ट्रेबल घटाने वाला</string>
+  <string name="vocal_booster">वाचिक बूस्टर</string>
   <string name="user">उपयोगकर्ता</string>
+  <string name="none">कोई नहीं</string>
+  <string name="smallroom">छोटा कमरा</string>
+  <string name="mediumroom">मध्यम कमरा</string>
+  <string name="largeroom">बड़ा कमरा</string>
+  <string name="mediumhall">मध्यम हॉल</string>
+  <string name="largehall">बड़ा हॉल</string>
+  <string name="plate">प्लेट</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">संगीत प्रभाव कंट्रोल फलक</string>
   <!-- Presets -->

@@ -15,16 +15,70 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">Vienodintuvas</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Efektai nepasiekiami.</string>
+  <string name="main_toggle_effects_title">Garso efektai</string>
   <string name="eq_dialog_title">Vienodintuvas</string>
   <string name="headset_plug">Įkiškite ausines, kad būtų pateikti šie efektai.</string>
+  <string name="combo_device">Veiksmai palaikomi tik ausinių atkūrimo metu.</string>
   <string name="bass_boost_strength">Žemų tonų išryškinimas</string>
   <string name="virtualizer_strength">Erdvinis garsas</string>
+  <string name="pr_title">Aidas:</string>
+  <string name="pr_summary">Papildomi kambario reverberacijos efektai</string>
+  <string name="pr_dialog_title">Išankstinė reverberacija</string>
   <string name="setup">Sąranka</string>
+  <string name="normal">Normalus</string>
+  <string name="classical">Klasikinis</string>
+  <string name="dance">Šokių</string>
+  <string name="flat">Plokščias</string>
+  <string name="folk">Liaudies</string>
+  <string name="heavy_metal">Sunkusis metalas</string>
+  <string name="hip_hop">Hiphopas</string>
+  <string name="jazz">Džiazas</string>
+  <string name="pop">Popsas</string>
+  <string name="rock">Rokas</string>
   <string name="ci_extreme">FX booster</string>
+  <string name="acoustic">Akustinis</string>
+  <string name="bass_booster">Žemų dažnių stiprintuvas</string>
+  <string name="bass_reducer">Žemų dažnių mažintuvas</string>
+  <string name="classical">Klasikinis</string>
+  <string name="deep">Gilus</string>
+  <string name="r_and_b">R&amp;B</string>
+  <string name="small_speakers">Maži garsiakalbiai</string>
+  <string name="treble_booster">Aukštų dažnių stiprintuvas</string>
+  <string name="treble_reducer">Aukštų dažnių mažintuvas</string>
+  <string name="vocal_booster">Vokalo stiprintuvas</string>
   <string name="user">Naudotojas</string>
+  <string name="none">Nieko</string>
+  <string name="smallroom">Mažas kambarys</string>
+  <string name="mediumroom">Vidutinis kambarys</string>
+  <string name="largeroom">Didelis kambarys</string>
+  <string name="mediumhall">Vidutinė salė</string>
+  <string name="largehall">Didžioji salė</string>
+  <string name="plate">Plokštė</string>
+  <string name="eq_custom">Norėdami modifikuoti, pasirinkite „Individualus“</string>
+  <string name="power_on_prompt">Įjunkite ekvalaizerį prieš bandydami konfigūruoti ką nors</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Muzikos efektų valdymo skyd.</string>
+  <string name="toggle_button_on">Įjungti</string>
+  <string name="toggle_button_off">Išjungti</string>
+  <string name="drawer_item_speaker">Garsiakalbis</string>
+  <string name="drawer_item_headset">Ausinės</string>
+  <string name="drawer_item_bluetooth">Bluetooth</string>
+  <string name="drawer_open">Atidaryti naršymo stalčių</string>
+  <string name="drawer_close">Uždaryti naršymo stalčių</string>
+  <string name="current_output">Dabartinė išvestis:</string>
+  <string name="stereowide_light">Šviesi</string>
+  <string name="stereowide_moderate">Vidutiniškai</string>
+  <string name="stereowide_high">Aukštai</string>
+  <string name="stereowide_none">Nieko</string>
+  <string name="sw_title">Stereo grotuvas:</string>
   <!-- Presets -->
+  <string name="preset_menu">Išankstiniai nustatymai</string>
+  <string name="save_preset">Įrašyti iš anksto</string>
+  <string name="load_preset">Apkrovos išanksto nustatyta</string>
+  <string name="new_preset">Naujas išankstinis nustatymas...</string>
+  <string name="preset_save_toast">Iš anksto išsaugotas</string>
+  <string name="preset_load_toast">Iš anksto įdiegta</string>
 </resources>
